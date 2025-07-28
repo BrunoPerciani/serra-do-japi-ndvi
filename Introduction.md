@@ -14,6 +14,11 @@ The graphs generated in this notebook supported the interpretation of long-term 
 - **Precipitation (2013–2023):** CHIRPS dataset via [Climate Engine](https://climateengine.org/)
 - **Administrative boundaries:** IBGE and GeoJundiaí shapefiles.
 
+## 📌 Citation
+
+If you use or refer to this code in your own work, please cite the corresponding paper (under review at *Revista Brasileira de Cartografia*) or credit the authorship of this repository.
+
+
 ## 🧑‍💻 Author
 
 **Bruno Zomignani Perciani**  
