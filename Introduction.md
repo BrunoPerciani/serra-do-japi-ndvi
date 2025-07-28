@@ -11,7 +11,7 @@ The graphs generated in this notebook supported the interpretation of long-term 
 ## 📊 Data sources
 
 - **NDVI (2013–2023):** Landsat-8 Collection via [USGS Earth Explorer](https://earthexplorer.usgs.gov/)
-- **Precipitation (2013–2023):** CHIRPS dataset via [Climate Engine](https://climateengine.org/)
+- **Total annual precipitation (2013–2023):** CHIRPS dataset via [Climate Engine](https://climateengine.org/)
 - **Administrative boundaries:** IBGE and GeoJundiaí shapefiles.
 
 ## 📌 Citation
